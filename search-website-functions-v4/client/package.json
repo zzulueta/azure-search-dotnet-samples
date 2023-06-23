@@ -4,8 +4,8 @@
   "private": true,
   "proxy": "http://localhost:7071",
   "dependencies": {
-    "@material-ui/core": "^5.13.5",
-    "@material-ui/icons": "^5.13.5",
+    "@material-ui/material": "^5.13.5",
+    "@material-ui/icons-material": "^5.13.5",
     "@material-ui/lab": "^5.13.5",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
