@@ -5,7 +5,7 @@
   "proxy": "http://localhost:7071",
   "dependencies": {
     "@material-ui/core": "^5.6.0",
-    "@material-ui/icons": "^4.11.3",
+    "@material-ui/icons": "^5.13.5",
     "@material-ui/lab": "^4.0.0-alpha.61",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
